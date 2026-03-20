@@ -1,2 +1,26 @@
 # -An-overview-of-code-of-a-novice-in-C-language
-These prgramming almost came from 2025.6 to 2025.8 , and absolutely created by a new code learner.
+* These prgramming almost came from 2025.7 to 2025.8 , and absolutely created by a new code learner.
+
+*米斯卡莫斯卡*
+
+**欢迎来到 ~~米奇喵喵屋~~ 一个代码萌新的来时路**
+
+***在这里，你将有机会看到：***
+
+* *朴实无华的暴力枚举*
+
+* *简单粗暴的命名规范（~~命名有了规范在哪？~~）*
+
+* *面向结果程序设计*
+
+* *大批量无意义的 exe 文件（绝对不是因为我懒得删了）*
+
+* *恰到好处的算法设计与优化  （~~别忘了给 ds和豆包好评喵~~）*
+
+* *令人忍俊不禁的链表设计*
+
+____
+
+*题目主要来源于翁恺 c 语言课程及部分 pta天梯赛练习题*
+
+*总学习时长约 1个月（每日3-4小时 ~~摸鱼~~ 沉浸式学习）*
